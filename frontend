@@ -1,1 +1,5 @@
 frontend/README.md
+
+
+This folder represents the React frontend.
+It is responsible only for UI and user interaction.
