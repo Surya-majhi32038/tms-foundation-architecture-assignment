@@ -1,1 +1,5 @@
 backend/README.md
+
+
+This folder represents the Django REST backend.
+It is responsible for APIs, authentication, and database operations.
